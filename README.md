@@ -1,5 +1,5 @@
 # projectx
-End to end setup steps OF an CI/CD Pipeline
+End to end setup steps of a CI/CD Pipeline
 
 Things to go by week1  
 Creation of a dummy stateless service using Python and Postgres  
